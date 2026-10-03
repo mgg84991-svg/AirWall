@@ -1,0 +1,6 @@
+{
+  "name": "AirWall — Умное настенное инженерное устройство",
+  "description": "Презентационный сайт инновационного устройства AirWall: микроклимат, качество воздуха PM2.5, рекомендации по одежде и 3D-печатный корпус.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
